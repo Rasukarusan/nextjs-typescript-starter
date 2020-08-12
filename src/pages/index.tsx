@@ -1,8 +1,9 @@
+import { Layout } from '@/components/layout'
 const IndexPage = () => {
   return (
-    <div>
+    <Layout>
       <h1>Hellowdddorld!</h1>
-    </div>
+    </Layout>
   )
 }
 export default IndexPage
