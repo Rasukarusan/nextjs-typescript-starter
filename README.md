@@ -1,7 +1,6 @@
 ## 構築手順
 
 ```sh
-
 # nextjs-typescriptの構築
 $ mkdir nextjs-typescript-starter
 $ cd nextjs-typescript-starter
@@ -12,6 +11,10 @@ $ yarn add react react-dom next typescript @types/react @types/react-dom @types/
 # eslint, prettier導入
 $ yarn add -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
 $ yarn add -D prettier eslint-config-prettier eslint-plugin-prettier
+
+# nowデプロイ
+$ now login # Github logged in
+$ now --prod
 ```
 
 ## 参考
