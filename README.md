@@ -15,6 +15,9 @@ $ yarn add -D prettier eslint-config-prettier eslint-plugin-prettier
 # nowデプロイ
 $ now login # Github logged in
 $ now --prod
+
+# material-ui導入
+$ yarn add @material-ui/core @material-ui/icons
 ```
 
 ## 参考
