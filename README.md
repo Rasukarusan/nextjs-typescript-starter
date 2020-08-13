@@ -12,6 +12,9 @@ $ yarn add react react-dom next typescript @types/react @types/react-dom @types/
 $ yarn add -D eslint eslint-plugin-react @typescript-eslint/eslint-plugin @typescript-eslint/parser
 $ yarn add -D prettier eslint-config-prettier eslint-plugin-prettier
 
+# linter確認
+$ yarn lint
+
 # nowデプロイ
 $ now login # Github logged in
 $ now --prod
