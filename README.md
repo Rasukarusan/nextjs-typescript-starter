@@ -9,7 +9,7 @@ $ touch src/pages/index.tsx
 $ yarn add react react-dom next typescript @types/react @types/react-dom @types/node
 
 # eslint, prettier導入
-$ yarn add -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
+$ yarn add -D eslint eslint-plugin-react @typescript-eslint/eslint-plugin @typescript-eslint/parser
 $ yarn add -D prettier eslint-config-prettier eslint-plugin-prettier
 
 # nowデプロイ
