@@ -20,7 +20,7 @@ $ now login # Github logged in
 $ now --prod
 
 # material-ui導入
-$ yarn add @material-ui/core @material-ui/icons
+$ yarn add @material-ui/core @material-ui/icons @material-ui/lab
 ```
 
 ## 参考
