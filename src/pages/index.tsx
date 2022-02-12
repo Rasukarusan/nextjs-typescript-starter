@@ -13,8 +13,8 @@ const IndexPage = () => {
         <div>
           <h1>NextJS Typescript Starter</h1>
           <p>
-            <Link href="https://github.com/Rasukarusan/nextjs-typescript-starter">
-              <a target="_blank">github</a>
+            <Link href="/posts/">
+              <a>/posts</a>
             </Link>
           </p>
         </div>
