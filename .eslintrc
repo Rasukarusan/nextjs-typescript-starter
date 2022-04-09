@@ -11,8 +11,10 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended",
     "plugin:prettier/recommended",
-    "prettier/@typescript-eslint"
+    "prettier/@typescript-eslint",
+    "plugin:tailwindcss/recommended"
   ],
+  "ignorePatterns": ["*.config.js"],
   "rules": {
     "prettier/prettier": "error",
     "react/react-in-jsx-scope": "off",
